@@ -21,7 +21,7 @@
 
 * _Install python_
 * _set python to PATH_
-* _enter in command line py pip install pyperclip_
+* _enter in command line: py -m pip install pyperclip_
 * _run python script project-setup.py_
 * _(optional) create a .bat to run from anywhere_
 
