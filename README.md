@@ -2,7 +2,7 @@
 
 #### By _**Richard Cha**_
 
-#### _Copies to clipboard 2 GitBash commands to make a project folder_
+#### _Copies to clipboard 1 GitBash command to paste to terminal to make a project folder_
 
 ## Technologies Used
 
@@ -13,9 +13,7 @@
 ## Description
 
 * _ask the user for a file name_
-* _copy the GitBash command to make directory with file name, css, and js directory for a user to paste_
-* _prompt user to press enter for next step_
-* _copy the GitBash command to make index.html, styles.css, and scripts.js to directory for a user to paste_
+* _copy the GitBash command to make a directory with file name, css, and js, and the GitBash command to make index.html, styles.css, and scripts.js for use to paste into GitBash terminal while in the directory a user would like a fresh project folder created._
 
 ## Setup/Installation Requirements
 
