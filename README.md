@@ -13,7 +13,7 @@
 ## Description
 
 * _ask the user for a file name_
-* _copy the GitBash command to make a directory with file name, css, and js, and the GitBash command to make index.html, styles.css, and scripts.js for use to paste into GitBash terminal while in the directory a user would like a fresh project folder created._
+* _Will automatically copy the GitBash command to make a directory with file name, css, and js, and the GitBash command to make index.html, styles.css, and scripts.js for use to paste into GitBash terminal while in the directory a user would like a fresh project folder created._
 
 ## Setup/Installation Requirements
 
